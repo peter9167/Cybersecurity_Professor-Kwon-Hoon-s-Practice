@@ -1,0 +1,25 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-949-2000"
+CID=fffffffe
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "SUSE Linux-s001.vmdk"
+RW 8323072 SPARSE "SUSE Linux-s002.vmdk"
+RW 8323072 SPARSE "SUSE Linux-s003.vmdk"
+RW 8323072 SPARSE "SUSE Linux-s004.vmdk"
+RW 8323072 SPARSE "SUSE Linux-s005.vmdk"
+RW 327680 SPARSE "SUSE Linux-s006.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "2610"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "1ba7c5655340bebb53c7b15cfffffffe"
+ddb.uuid = "60 00 C2 9d 7a b9 9a b9-9e ec 32 b7 4d c0 cf 06"
+ddb.virtualHWVersion = "19"

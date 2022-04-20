@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 d1 c9 08 30 fb 31 bc-58 a7 98 e5 2d e6 1a c2</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">SUSE Linux.vmx</vmxPathName></VM></Foundry>
