@@ -5,4 +5,4 @@
 <ClientMetaData>
 <clientMetaDataAttributes/>
 <HistoryEventList/></ClientMetaData>
-<vmxPathName type="string">SUSE Linux.vmx</vmxPathName></VM></Foundry>
+<vmxPathName type="string">SUSE Linux.vmx</vmxPathName></VM><tools-install-info><installError>21004</installError><updateCounter>2</updateCounter></tools-install-info></Foundry>
