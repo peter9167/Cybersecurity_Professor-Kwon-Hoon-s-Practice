@@ -1,3 +1,6 @@
+ZOOM 회의 아이디 : 848 4928 9575
+ZOOM 회의 비밀번호 : 260742
+
 DVWA 다운로드 링크 : https://drive.google.com/drive/folders/19M1pQHXHMfWqA3LbM3ZZveCy7CoGla47\
 
 강의 공유 링크 : https://sites.google.com/view/hoonys-cyber
